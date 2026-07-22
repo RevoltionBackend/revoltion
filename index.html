@@ -4,11 +4,16 @@
     <meta charset="UTF-8">
     <title>Revoltion</title>
 
-    <script src="config.js"></script>
-
     <script>
-        window.location.replace(DESTINO);
-    </script>
+		fetch("backend.json")
+		.then(response => response.json())
+		.then(config => {
+		window.location.replace(config.backend + "/station/DTA31303");
+		})
+		.catch(() => {
+			document.body.innerHTML = "<h2>Error obteniendo la dirección del servidor.</h2>";
+		});
+</script>
 
     <style>
         body{
