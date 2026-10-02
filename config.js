@@ -1,1 +1,2 @@
-const DESTINO = "https://overcome-vector-between-null.trycloudflare.com/station/DTA31303";
+﻿const DESTINO = "https://latina-pants-bathroom-observer.trycloudflare.com/station/DTA31303";
+
