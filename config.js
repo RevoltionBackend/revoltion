@@ -1,2 +1,2 @@
-﻿const DESTINO = "https://latina-pants-bathroom-observer.trycloudflare.com/station/DTA31303";
+const DESTINO = "https://firewall-levels-camera-trivia.trycloudflare.com/station/DTA31303";
 
