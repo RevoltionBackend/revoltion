@@ -1,2 +1,2 @@
-const DESTINO = "https://introduction-sally-monte-victorian.trycloudflare.com/station/DTA31303";
+const DESTINO = "https://winning-card-secrets-blah.trycloudflare.com/station/DTA31303";
 
