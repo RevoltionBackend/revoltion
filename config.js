@@ -1,2 +1,2 @@
-const DESTINO = "https://planets-whether-kitchen-availability.trycloudflare.com/station/DTA31303";
+const DESTINO = "https://holds-dimensions-sin-mpegs.trycloudflare.com/station/DTA31303";
 
