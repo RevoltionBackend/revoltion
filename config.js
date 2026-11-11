@@ -1,2 +1,2 @@
-const DESTINO = "https://travesti-organisms-cal-mixed.trycloudflare.com/station/DTA31303";
+const DESTINO = "https://rent.revoltion.es/station/DTA31303";
 
